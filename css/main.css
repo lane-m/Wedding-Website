@@ -1,0 +1,26 @@
+/******************************************************************************************/ 
+
+body {
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    background-position: center;
+    width: 800px;
+
+}
+
+header {
+    height: 100px;
+
+}
+
+nav {
+    float: right;
+
+}
+
+nav li {
+    display:inline-block
+}
+
+/******************************************************************************************/ 
